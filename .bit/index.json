@@ -1,0 +1,74 @@
+[
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "compilers/babel"
+    },
+    "isSymlink": false,
+    "hash": "ac130f5e67d6ac0482ae46fde1a4805ef4d8c149"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "internal/get-babel-options"
+    },
+    "isSymlink": false,
+    "hash": "d4771e232e52a7a9ef391bf363d523bc932b014d"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "internal/babel-base-compiler"
+    },
+    "isSymlink": false,
+    "hash": "98f497a5e1cba818d2d5da02020ed566a572b936"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "object/has-own-property"
+    },
+    "isSymlink": false,
+    "hash": "68b489f0ac79f13787c77dc1fd6a7beb18a7b6ba"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "object/group-by"
+    },
+    "isSymlink": false,
+    "hash": "9155f60c15a0d4c1c0301f15ef2a09a99687ca77"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "find-suitable-tick-divisor"
+    },
+    "isSymlink": true,
+    "hash": "e6b82626a930fbb2d45b1052eb0cb1403b70b4c7"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "range"
+    },
+    "isSymlink": true,
+    "hash": "4d55af37dbbb6a42088d917caa1ca25428ec42c9"
+  },
+  {
+    "id": {
+      "scope": "larskarbo.utils",
+      "name": "find-suitable-tick-divisor"
+    },
+    "isSymlink": false,
+    "hash": "83bfa6b044bba3d3a91ba573305e419678d4bbca"
+  },
+  {
+    "id": {
+      "scope": "larskarbo.utils",
+      "name": "range"
+    },
+    "isSymlink": false,
+    "hash": "36de9a128c91d83de584f507beef4e9bff2aa0cf"
+  }
+]

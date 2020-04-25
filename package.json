@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+    "microbundle": "^0.11.0"
+  },
+  "dependencies": {
+    "color": "^3.1.2",
+    "d3": "^5.9.7",
+    "delay": "^4.3.0",
+    "konva": "^4.0.3",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "underscore": "^1.9.1"
+  },
+  "license": "MIT",
+  "source": "src/index.js",
+  "main": "dist/index.js",
+  "name": "trackchart",
+  "scripts": {
+    "dev": "microbundle watch"
+  },
+  "version": "1.0.0",
+  "bit": {
+    "env": {
+      "compiler": "bit.envs/compilers/babel@7.0.1"
+    },
+    "componentsDefaultDirectory": "components/{name}",
+    "packageManager": "npm"
+  }
+}
